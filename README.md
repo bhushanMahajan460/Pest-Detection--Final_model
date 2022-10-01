@@ -12,7 +12,6 @@
 
 ## Important -----------
 ### Since there are same images in coffee crop that is why model is overfitting (IG)
-### and if we perform same model on jute dataset(which doesnt have same iimages in train dataset) then this problem will not occur, still i have used early stopping that 
-### helps in overfitting problem.
+### and if we perform same model on jute dataset(which doesnt have same iimages in train dataset) then this problem will not occur, still i have used early stopping that helps in overfitting problem.
 
 # CHANGE THE EPOCH NUMBER WHICH I HAVE MENTIONED IN 2nd CELL
