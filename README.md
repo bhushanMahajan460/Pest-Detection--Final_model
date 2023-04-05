@@ -1,4 +1,4 @@
-# **:ear_of_rice:Crop Recommendation System (Team 2)**
+# **:ear_of_rice:Pest Detection (Team 4)**
 
 It is an open source colloboration with Omdena algeria chapter. A machine learning web app that predicts the presence of pests in the crop and suggests the best or requires pesticides to protect the crop.
 
@@ -25,7 +25,7 @@ To recommend optimum pesticides to be used by farmers based on respective pests 
 
 ## **:bar_chart: MODULE WORKFLOW**
 <p align="left">
-  <img width="600" height="375" src="https://user-images.githubusercontent.com/36481036/193409683-eb942bc6-d162-4d5a-8105-fb4069da5a5e.png">
+  <img width="600" height="375" src="(https://drive.google.com/file/d/16d0ZOS1lZwJyViX1CA8NHPd2uMXyR9vL/view?usp=sharing)">
 </p>
 
 ---
