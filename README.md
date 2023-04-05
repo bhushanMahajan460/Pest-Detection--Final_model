@@ -3,7 +3,7 @@
 It is an open source colloboration with Omdena algeria chapter. A machine learning web app that predicts the presence of pests in the crop and suggests the best or requires pesticides to protect the crop.
 
 <p align="center">
-  <img width="600" height="325" src="https://drive.google.com/file/d/16d0ZOS1lZwJyViX1CA8NHPd2uMXyR9vL/view?usp=sharing">
+  <img width="600" height="325" src="![image](https://user-images.githubusercontent.com/68232386/230073816-92ab7ddb-64a2-459b-ae82-27cebb1bab1a.png)">
 </p>
 
 To recommend optimum pesticides to be used by farmers based on respective pests and help them make an informed decision.
