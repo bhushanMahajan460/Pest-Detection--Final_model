@@ -1,6 +1,6 @@
 # **:ear_of_rice:Pest Detection (Team 4)**
 
-It is an open source colloboration with Omdena algeria chapter. A machine learning model that predicts the presence of pests in the crop and suggests the best or requires pesticides to protect the crop.
+It is an open source colloboration with Omdena algeria chapter. A machine learning model that predicts the presence of pests in the crop and suggests the best or requires pesticides to protect the crop. Pests are a huge threat! Farmers are hard at work however their productivity is reduced due to pests, so this model can be used to identify pests or maybe other use cases involving pest identification.
 
 <p align="center">
   <img width="600" height="325" src="https://imgs.search.brave.com/I4j3n1p8fvs2zhKhGauvYsvn5x6JrnQLO6fqzTxXmvo/rs:fit:891:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/T2FVOHV0Q2c5SG91/TEpwTVR4bDRRSGFE/OCZwaWQ9QXBp">
@@ -14,6 +14,9 @@ To recommend optimum pesticides to be used by farmers based on respective pests 
 * The dataset reference was taken from https://www.kaggle.com/datasets/simranvolunesia/pest-dataset?select=pest
 * Type of Dataset: Image Dataset
 * It has two folders: one is "train" and the other is "test" which is the usual bifurcation done when model has to be trained!
+1. No. of training images: 300 images per pest
+2. No. of testing images: 50 images per pest
+
 * One can download the dataset which is having 10 fruits, 10 field, 10 vegetbale crops and in each category: 5 different pests.
 1. Field Crops 
 2. Fruit Crops 
