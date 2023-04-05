@@ -25,10 +25,8 @@ To recommend optimum pesticides to be used by farmers based on respective pests 
 
 ## **:bar_chart: MODULE WORKFLOW**
 <p align="left">
-  
-![Screenshot (158)](https://user-images.githubusercontent.com/68232386/230074463-0f69c58a-eda0-4794-9c30-93fe4753a1e4.png)
-  
- </p>
+  <img src="https://user-images.githubusercontent.com/68232386/230074463-0f69c58a-eda0-4794-9c30-93fe4753a1e4.png">
+</p>
 
 
 ---
